@@ -1,0 +1,6 @@
+open inv0.txt
+display
+process trans1.txt
+display 99999
+display
+save inv1.txt

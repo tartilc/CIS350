@@ -1,0 +1,31 @@
+﻿  testt.cpp
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(76): note: see reference to class template instantiation 'SearchTree<E>' being compiled
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(193): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(209): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(50): note: see reference to class template instantiation 'AVLTree<E>' being compiled
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(118): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Attempt2.cpp
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(76): note: see reference to class template instantiation 'SearchTree<E>' being compiled
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(193): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(209): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(50): note: see reference to class template instantiation 'AVLTree<E>' being compiled
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(118): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Attempt1.cpp
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(76): note: see reference to class template instantiation 'SearchTree<E>' being compiled
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(193): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\searchtree.h(209): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(50): note: see reference to class template instantiation 'AVLTree<E>' being compiled
+c:\users\owner\documents\cis350\program001\attempt1\attempt1\avltree.h(118): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+Attempt2.obj : error LNK2005: _main already defined in Attempt1.obj
+testt.obj : error LNK2005: _main already defined in Attempt1.obj
+C:\Users\Owner\Documents\CIS350\Program001\Attempt1\Debug\Attempt1.exe : fatal error LNK1169: one or more multiply defined symbols found

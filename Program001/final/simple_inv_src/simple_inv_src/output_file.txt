@@ -1,0 +1,12 @@
+4 3
+200 5
+99999 7
+12345689 10
+Inventory size: 25
+error: Insufficient inventory: Product ID 200, 6 requested, 5 available
+99999 6
+100 2
+200 5
+99999 6
+12345689 5
+Inventory size: 18

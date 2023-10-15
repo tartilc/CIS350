@@ -1,0 +1,15 @@
+open inv0.txt
+display
+process trans1.txt
+display 99999
+display
+save inv1.txt
+open inv1.txt
+display
+process trans2.txt
+display 0123456789
+display
+process trans3.txt
+display 0123456789
+display
+save inv2.txt
